@@ -2,14 +2,6 @@
 
 A comprehensive pet adoption management system using a multi-database architecture to handle different aspects of the adoption workflow.
 
-## Architecture Overview
-
-This application uses three specialized databases:
-
-- **PostgreSQL**: Structured adoption records, user accounts, and transactional data
-- **MongoDB**: Flexible health records, behavior tracking, and medical history
-- **Neo4j**: Graph-based relationship modeling for intelligent pet recommendations
-
 ## Features
 
 - 📋 **Adoption Management**: Track pets, adopters, and adoption status
